@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with mixl.ai as a Founding AI Engineer.
+- 🔭 Currently working with MPR Labs as Tech Lead Founding Engineer.
+- 🔭 Previously worked with mixl.ai as a Founding AI Engineer.
 - 🌱 Also started with Open Souce Community i.e. superduperdb.com as a Open Source contributor (Volunteering, unpaid role)
 
 <!--
