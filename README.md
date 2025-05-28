@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tarun Makkar</h1>
-<h3 align="center">Experienced Lead Engineer who is passionate about AI, state-of-the-art technologies, and startups. Skilled in software architecture, team collaboration, and delivering innovative, scalable solutions.
+<h3 align="center">1. Experienced Lead Engineer who is passionate about AI, state-of-the-art technologies, and startups. Skilled in software architecture, team collaboration, and delivering innovative, scalable solutions.
 
-As a Professional Freelancer, I also provide consultancy services, commission-based recruitment, and content creation.
+2. I also provide consultancy services, commission-based recruitment, and content creation.
 
-Exploring interesting stuff in BioTech</h3>
+3. Exploring interesting stuff in BioTech and working on them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makkarss929&label=Profile%20views&color=0e75b6&style=flat" alt="makkarss929" /> </p>
 
